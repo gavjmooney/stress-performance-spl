@@ -1,27 +1,27 @@
-Graph: n10-2 | Drawing: A | Stress: 0.4 | Size: 10 | Path: 4 -> 7 (Length: 2)
-Graph: n10-2 | Drawing: B | Stress: 0.4 | Size: 10 | Path: 4 -> 7 (Length: 2)
-Graph: n10-2 | Drawing: C | Stress: 0.4 | Size: 10 | Path: 4 -> 7 (Length: 2)
-Graph: n10-2 | Drawing: A | Stress: 0.45 | Size: 10 | Path: 0 -> 2 (Length: 3)
-Graph: n10-2 | Drawing: B | Stress: 0.45 | Size: 10 | Path: 0 -> 2 (Length: 3)
-Graph: n10-2 | Drawing: C | Stress: 0.45 | Size: 10 | Path: 0 -> 2 (Length: 3)
-Graph: n10-2 | Drawing: A | Stress: 0.5 | Size: 10 | Path: 0 -> 4 (Length: 4)
-Graph: n10-2 | Drawing: B | Stress: 0.5 | Size: 10 | Path: 0 -> 4 (Length: 4)
-Graph: n10-2 | Drawing: C | Stress: 0.5 | Size: 10 | Path: 0 -> 4 (Length: 4)
-Graph: n10-2 | Drawing: A | Stress: 0.55 | Size: 10 | Path: 3 -> 4 (Length: 2)
-Graph: n10-2 | Drawing: B | Stress: 0.55 | Size: 10 | Path: 3 -> 4 (Length: 2)
-Graph: n10-2 | Drawing: C | Stress: 0.55 | Size: 10 | Path: 3 -> 4 (Length: 2)
-Graph: n10-2 | Drawing: A | Stress: 0.6 | Size: 10 | Path: 0 -> 1 (Length: 3)
-Graph: n10-2 | Drawing: B | Stress: 0.6 | Size: 10 | Path: 0 -> 1 (Length: 3)
-Graph: n10-2 | Drawing: C | Stress: 0.6 | Size: 10 | Path: 0 -> 1 (Length: 3)
-Graph: n10-2 | Drawing: A | Stress: 0.65 | Size: 10 | Path: 3 -> 8 (Length: 2)
-Graph: n10-2 | Drawing: B | Stress: 0.65 | Size: 10 | Path: 3 -> 8 (Length: 2)
-Graph: n10-2 | Drawing: C | Stress: 0.65 | Size: 10 | Path: 3 -> 8 (Length: 2)
-Graph: n10-2 | Drawing: A | Stress: 0.7 | Size: 10 | Path: 0 -> 9 (Length: 3)
-Graph: n10-2 | Drawing: B | Stress: 0.7 | Size: 10 | Path: 0 -> 9 (Length: 3)
-Graph: n10-2 | Drawing: C | Stress: 0.7 | Size: 10 | Path: 0 -> 9 (Length: 3)
-Graph: n10-2 | Drawing: A | Stress: 0.75 | Size: 10 | Path: 1 -> 5 (Length: 2)
-Graph: n10-2 | Drawing: B | Stress: 0.75 | Size: 10 | Path: 1 -> 5 (Length: 2)
-Graph: n10-2 | Drawing: C | Stress: 0.75 | Size: 10 | Path: 1 -> 5 (Length: 2)
-Graph: n10-2 | Drawing: A | Stress: 0.8 | Size: 10 | Path: 4 -> 8 (Length: 3)
-Graph: n10-2 | Drawing: B | Stress: 0.8 | Size: 10 | Path: 4 -> 8 (Length: 3)
-Graph: n10-2 | Drawing: C | Stress: 0.8 | Size: 10 | Path: 4 -> 8 (Length: 3)
+0.4	0->4	L=4	A
+0.4	0->4	L=4	B
+0.4	0->4	L=4	C
+0.45	0->4	L=4	A
+0.45	0->4	L=4	B
+0.45	0->4	L=4	C
+0.5	0->1	L=3	A
+0.5	0->1	L=3	B
+0.5	0->1	L=3	C
+0.55	3->9	L=2	A
+0.55	3->9	L=2	B
+0.55	3->9	L=2	C
+0.6	0->4	L=4	A
+0.6	0->4	L=4	B
+0.6	0->4	L=4	C
+0.65	2->5	L=2	A
+0.65	2->5	L=2	B
+0.65	2->5	L=2	C
+0.7	3->7	L=2	A
+0.7	3->7	L=2	B
+0.7	3->7	L=2	C
+0.75	4->6	L=3	A
+0.75	4->6	L=3	B
+0.75	4->6	L=3	C
+0.8	5->7	L=3	A
+0.8	5->7	L=3	B
+0.8	5->7	L=3	C

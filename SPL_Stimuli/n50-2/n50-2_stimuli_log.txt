@@ -1,27 +1,27 @@
-Graph: n50-2 | Drawing: A | Stress: 0.4 | Size: 50 | Path: 10 -> 30 (Length: 2)
-Graph: n50-2 | Drawing: B | Stress: 0.4 | Size: 50 | Path: 10 -> 30 (Length: 2)
-Graph: n50-2 | Drawing: C | Stress: 0.4 | Size: 50 | Path: 10 -> 30 (Length: 2)
-Graph: n50-2 | Drawing: A | Stress: 0.45 | Size: 50 | Path: 27 -> 47 (Length: 3)
-Graph: n50-2 | Drawing: B | Stress: 0.45 | Size: 50 | Path: 27 -> 47 (Length: 3)
-Graph: n50-2 | Drawing: C | Stress: 0.45 | Size: 50 | Path: 27 -> 47 (Length: 3)
-Graph: n50-2 | Drawing: A | Stress: 0.5 | Size: 50 | Path: 15 -> 49 (Length: 4)
-Graph: n50-2 | Drawing: B | Stress: 0.5 | Size: 50 | Path: 15 -> 49 (Length: 4)
-Graph: n50-2 | Drawing: C | Stress: 0.5 | Size: 50 | Path: 15 -> 49 (Length: 4)
-Graph: n50-2 | Drawing: A | Stress: 0.55 | Size: 50 | Path: 18 -> 46 (Length: 5)
-Graph: n50-2 | Drawing: B | Stress: 0.55 | Size: 50 | Path: 18 -> 46 (Length: 5)
-Graph: n50-2 | Drawing: C | Stress: 0.55 | Size: 50 | Path: 18 -> 46 (Length: 5)
-Graph: n50-2 | Drawing: A | Stress: 0.6 | Size: 50 | Path: 23 -> 30 (Length: 2)
-Graph: n50-2 | Drawing: B | Stress: 0.6 | Size: 50 | Path: 23 -> 30 (Length: 2)
-Graph: n50-2 | Drawing: C | Stress: 0.6 | Size: 50 | Path: 23 -> 30 (Length: 2)
-Graph: n50-2 | Drawing: A | Stress: 0.65 | Size: 50 | Path: 14 -> 46 (Length: 3)
-Graph: n50-2 | Drawing: B | Stress: 0.65 | Size: 50 | Path: 14 -> 46 (Length: 3)
-Graph: n50-2 | Drawing: C | Stress: 0.65 | Size: 50 | Path: 14 -> 46 (Length: 3)
-Graph: n50-2 | Drawing: A | Stress: 0.7 | Size: 50 | Path: 11 -> 22 (Length: 4)
-Graph: n50-2 | Drawing: B | Stress: 0.7 | Size: 50 | Path: 11 -> 22 (Length: 4)
-Graph: n50-2 | Drawing: C | Stress: 0.7 | Size: 50 | Path: 11 -> 22 (Length: 4)
-Graph: n50-2 | Drawing: A | Stress: 0.75 | Size: 50 | Path: 1 -> 2 (Length: 5)
-Graph: n50-2 | Drawing: B | Stress: 0.75 | Size: 50 | Path: 1 -> 2 (Length: 5)
-Graph: n50-2 | Drawing: C | Stress: 0.75 | Size: 50 | Path: 1 -> 2 (Length: 5)
-Graph: n50-2 | Drawing: A | Stress: 0.8 | Size: 50 | Path: 6 -> 47 (Length: 2)
-Graph: n50-2 | Drawing: B | Stress: 0.8 | Size: 50 | Path: 6 -> 47 (Length: 2)
-Graph: n50-2 | Drawing: C | Stress: 0.8 | Size: 50 | Path: 6 -> 47 (Length: 2)
+0.4	45->46	L=3	A
+0.4	45->46	L=3	B
+0.4	45->46	L=3	C
+0.45	15->48	L=4	A
+0.45	15->48	L=4	B
+0.45	15->48	L=4	C
+0.5	23->27	L=3	A
+0.5	23->27	L=3	B
+0.5	23->27	L=3	C
+0.55	10->35	L=5	A
+0.55	10->35	L=5	B
+0.55	10->35	L=5	C
+0.6	14->36	L=4	A
+0.6	14->36	L=4	B
+0.6	14->36	L=4	C
+0.65	31->35	L=3	A
+0.65	31->35	L=3	B
+0.65	31->35	L=3	C
+0.7	16->27	L=5	A
+0.7	16->27	L=5	B
+0.7	16->27	L=5	C
+0.75	31->37	L=5	A
+0.75	31->37	L=5	B
+0.75	31->37	L=5	C
+0.8	12->20	L=3	A
+0.8	12->20	L=3	B
+0.8	12->20	L=3	C
